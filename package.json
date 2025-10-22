@@ -14,5 +14,8 @@
   "devDependencies": {},
   "dependencies": {
     "onscan.js": "^1.5.2"
+  },
+  "scripts": {
+    "vercel-build": "node scripts/build-vercel.mjs"
   }
 }
